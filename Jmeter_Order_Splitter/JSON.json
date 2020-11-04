@@ -1,0 +1,28 @@
+[
+{
+  "name":"John",
+  "age":29,
+  "cars": [
+    { "name":"Ford", "models":[ "Fiesta", "Focus", "Mustang" ] },
+    { "name":"BMW", "models":[ "320", "X3", "X5" ] },
+    { "name":"Fiat", "models":[ "500", "Panda" ] }
+  ]
+},
+{
+  "name":"Jim",
+  "age":32,
+  "cars": [
+    { "name":"Renault", "models":[ "Clio", "Kadjar", "Megane" ] },
+    { "name":"Audi", "models":[ "R8", "Q2", "Q3" ] },
+    { "name":"Land Rover", "models":[ "Discovery" ] }
+  ]
+},
+{
+  "name":"Dave",
+  "age":35,
+  "cars": [
+    { "name":"Toyota", "models":[ "Yaris", "Carolla", "Prius" ] },
+    { "name":"Porsche", "models":[ "911", "718" ] }
+  ]
+}
+]
